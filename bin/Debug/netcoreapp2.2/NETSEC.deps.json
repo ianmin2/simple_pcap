@@ -1,0 +1,93 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "9f0b968309e0142614430a1fadaea42ec7e84450"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "NETSEC/1.0.0": {
+        "dependencies": {
+          "SharpPcap": "5.0.0",
+          "SnmpSharpNet-core": "1.0.0"
+        },
+        "runtime": {
+          "NETSEC.dll": {}
+        }
+      },
+      "PacketDotNet/1.0.1": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/PacketDotNet.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "SharpPcap/5.0.0": {
+        "dependencies": {
+          "PacketDotNet": "1.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpPcap.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "SnmpSharpNet-core/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/SnmpSharpNetCore.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.4.1",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NETSEC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PacketDotNet/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5DPDbVW+9FSl4L/WLQ4iLxPMeDXw2IxHgOEzVSKYlhaLXc67+/bT7uq4qroTIOj2ysCKY9rBujz0juLCHwFa5g==",
+      "path": "packetdotnet/1.0.1",
+      "hashPath": "packetdotnet.1.0.1.nupkg.sha512"
+    },
+    "SharpPcap/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-l9+1v/ZjecKOc5GW6/c1kbdOTK2yu8sMWpgNBf3Z1G1x63Q34EWFCYNbUycrH9IrXsEtS+MUbxt/ArEcfqm8yg==",
+      "path": "sharppcap/5.0.0",
+      "hashPath": "sharppcap.5.0.0.nupkg.sha512"
+    },
+    "SnmpSharpNet-core/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P7PRyKnd6MfmvMvoYQdOwBQm5JRIWL80229gpGA88x8Anx7ofH1jbzDTfp84RxuspjvSzB5H+IipBhXSHozL6w==",
+      "path": "snmpsharpnet-core/1.0.0",
+      "hashPath": "snmpsharpnet-core.1.0.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wprSFgext8cwqymChhrBLu62LMg/1u92bU+VOwyfBimSPVFXtsNqEWC92Pf9ofzJFlk4IHmJA75EDJn1b2goAQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.2",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    }
+  }
+}

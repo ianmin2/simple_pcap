@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/UOH/NETSEC/ACW1/NETSEC.csproj": {}
+  },
+  "projects": {
+    "/UOH/NETSEC/ACW1/NETSEC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/UOH/NETSEC/ACW1/NETSEC.csproj",
+        "projectName": "NETSEC",
+        "projectPath": "/UOH/NETSEC/ACW1/NETSEC.csproj",
+        "packagesPath": "/home/ian/.nuget/packages/",
+        "outputPath": "/UOH/NETSEC/ACW1/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/ian/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "SharpPcap": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "SnmpSharpNet-core": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/UOH/NETSEC/ACW1/bin/Debug/netcoreapp2.2/NETSEC.deps.json
+/UOH/NETSEC/ACW1/bin/Debug/netcoreapp2.2/NETSEC.runtimeconfig.json
+/UOH/NETSEC/ACW1/bin/Debug/netcoreapp2.2/NETSEC.runtimeconfig.dev.json
+/UOH/NETSEC/ACW1/bin/Debug/netcoreapp2.2/NETSEC.dll
+/UOH/NETSEC/ACW1/bin/Debug/netcoreapp2.2/NETSEC.pdb
+/UOH/NETSEC/ACW1/obj/Debug/netcoreapp2.2/NETSEC.csprojAssemblyReference.cache
+/UOH/NETSEC/ACW1/obj/Debug/netcoreapp2.2/NETSEC.csproj.CoreCompileInputs.cache
+/UOH/NETSEC/ACW1/obj/Debug/netcoreapp2.2/NETSEC.AssemblyInfoInputs.cache
+/UOH/NETSEC/ACW1/obj/Debug/netcoreapp2.2/NETSEC.AssemblyInfo.cs
+/UOH/NETSEC/ACW1/obj/Debug/netcoreapp2.2/NETSEC.dll
+/UOH/NETSEC/ACW1/obj/Debug/netcoreapp2.2/NETSEC.pdb
